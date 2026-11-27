@@ -1,1 +1,1 @@
-# projeto-equipe
+# Projeto em Equipe - Engenharia
